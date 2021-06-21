@@ -1,0 +1,16 @@
+{
+  "name": "node_01",
+  "version": "1.0.0",
+  "description": "mi primera app de node",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "DarthSeith",
+  "license": "ISC"
+}
