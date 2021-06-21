@@ -4,8 +4,9 @@
   "description": "mi primera app de node",
   "main": "app.js",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "express": "^4.17.1",
-    "dotenv": "^10.0.0"
+    "nodemon": "^2.0.7"
   },
   "devDependencies": {},
   "scripts": {
